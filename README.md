@@ -1,2 +1,2 @@
-# review_your_project
-Review of an old project, performed as part of week 2 of Microverse Program
+# Microverse trials - Martin and Julius
+Microverse pair programming trials performed with MNaibei on Dec 2022
